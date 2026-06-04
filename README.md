@@ -16,7 +16,8 @@ S.No	Name of the Apparatus	Range	Quantity
 7	Connecting Wires	As Required	
 
 CIRCUIT DIAGRAM:
-<img width="567" height="300" alt="image" src="https://github.com/user-attachments/assets/d690ec51-13bb-45b5-9ece-a084dfb0c4df" />
+<img width="1599" height="899" alt="WhatsApp Image 2026-06-04 at 7 20 31 AM" src="https://github.com/user-attachments/assets/5dc254d8-870e-4d2f-aaf0-d30655620e00" />
+
 
 THEORY:
 	
@@ -30,6 +31,10 @@ PROCEDURE:
 4. The zener current (lz), and the zener voltage (Vz.) are observed and then noted in the tabular form.
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 OBSERVATIONS:
+<img width="899" height="1599" alt="WhatsApp Image 2026-06-04 at 7 20 41 AM" src="https://github.com/user-attachments/assets/abf007e6-b584-491d-8879-bd581e225ffe" />
+<img width="899" height="1599" alt="WhatsApp Image 2026-06-04 at 7 20 09 AM" src="https://github.com/user-attachments/assets/0a108a64-a495-4678-817e-2e17cb23e1de" />
+
+
 
 REGULATION CHARACTERISTICS:
 <img width="1599" height="899" alt="WhatsApp Image 2026-06-04 at 7 16 46 AM" src="https://github.com/user-attachments/assets/7e8c270d-3739-4683-8470-b7eaf057c9d5" />
